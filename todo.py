@@ -12,4 +12,6 @@ while True:
         tarea.append(ntarea)
         print("\033[34m CURRENT LIST \033[0m")
         for item in tarea:
-            print(item)
+            print(item
+
+#coded by xero
